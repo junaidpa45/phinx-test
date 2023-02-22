@@ -1,0 +1,17 @@
+{
+    "name": "junaid/phinx",
+    "autoload": {
+        "psr-4": {
+            "Junaid\\Phinx\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junaidpa45",
+            "email": "m.junaid@hatchlo.in"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.13.4"
+    }
+}
